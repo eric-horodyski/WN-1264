@@ -1,0 +1,7 @@
+{
+  "name": "WN-1264",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
